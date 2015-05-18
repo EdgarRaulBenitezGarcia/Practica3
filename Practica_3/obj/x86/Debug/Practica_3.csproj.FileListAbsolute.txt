@@ -1,0 +1,5 @@
+C:\Users\EDGAR SHAORAN\Documents\Universidad\Programacion III\Practica3\Practica_3\Practica_3\bin\Debug\Practica_3.exe
+C:\Users\EDGAR SHAORAN\Documents\Universidad\Programacion III\Practica3\Practica_3\Practica_3\bin\Debug\Practica_3.pdb
+C:\Users\EDGAR SHAORAN\Documents\Universidad\Programacion III\Practica3\Practica_3\Practica_3\obj\x86\Debug\Practica_3.exe
+C:\Users\EDGAR SHAORAN\Documents\Universidad\Programacion III\Practica3\Practica_3\Practica_3\obj\x86\Debug\Practica_3.pdb
+C:\Users\EDGAR SHAORAN\Documents\Universidad\Programacion III\Practica3\Practica_3\Practica_3\obj\x86\Debug\Practica_3.csprojResolveAssemblyReference.cache
